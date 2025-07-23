@@ -208,7 +208,7 @@ color: black;
     }
     .image-cont::before{
         width: 18rem;
-        height: 26rem;
+        height: 23rem;
     }
     .overlay-active{
         opacity: .6;
